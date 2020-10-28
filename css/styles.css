@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: none;
+  border-top: 6px dotted grey;
+  width: 4%;
+  border-color: #EAF6F6;
+}
+p{
+  color: #40514E;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.btn{
+  padding: 10px;
+  font-family: sans-serif;
+  color: white;
+  background-color: #11999E;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background-color: #66BFBF;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.contact-me{
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.copyright{
+  color: #EAF6F6;
+  margin: 30px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  margin: 15px;
+}
+
+.profile{
+  width: 40%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.profile-photo {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.skills{
+  margin: 100px auto 100px auto;
+}
+
+.skill-photo{
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football-photo{
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+  }
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  }
+
+.top {
+  background-color: #e8ffff;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
